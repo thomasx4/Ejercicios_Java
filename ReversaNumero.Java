@@ -1,3 +1,5 @@
+// Ejercicio 15: para invertir un número entero
+
 import java.util.Scanner;
 
 public class ReversaNumero {

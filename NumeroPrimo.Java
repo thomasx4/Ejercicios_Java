@@ -1,3 +1,5 @@
+// Ejercicio 14: para determinar si un número es primo
+
 import java.util.Scanner;
 
 public class NumeroPrimo {

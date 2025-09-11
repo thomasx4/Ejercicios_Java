@@ -1,4 +1,4 @@
-// Ejercicio 7: Adivinanza
+// Ejercicio 7: adivinanzas
 
 import java.util.Scanner;
 

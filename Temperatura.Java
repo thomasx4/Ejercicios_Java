@@ -1,3 +1,5 @@
+// Ejercicio 11: para convertir temperatura de Celsius a Fahrenheit y Kelvin
+
 import java.util.Scanner;
 
 public class Temperatura {

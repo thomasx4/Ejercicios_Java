@@ -1,3 +1,5 @@
+// Ejercicio 12: para contar vocales y consonantes en una palabra
+
 import java.util.Scanner;
 
 public class ContadorVocales {

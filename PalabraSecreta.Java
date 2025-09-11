@@ -1,3 +1,5 @@
+// Ejercicio 20: para adivinar una palabra secreta
+
 import java.util.Scanner;
 
 public class palabraSecreta {

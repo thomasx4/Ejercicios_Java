@@ -1,3 +1,5 @@
+// Ejercicio 16: para contar la cantidad de dígitos en un número entero
+
 import java.util.Scanner;
 
 public class ContadorDigitos {

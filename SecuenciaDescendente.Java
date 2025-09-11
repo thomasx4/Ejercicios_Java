@@ -1,3 +1,5 @@
+// Ejercicio 18: para imprimir una secuencia descendente desde un número dado hasta 1
+
 import java.util.Scanner;
 
 public class SecuenciaDescendente {

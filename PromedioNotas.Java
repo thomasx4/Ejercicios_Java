@@ -1,3 +1,5 @@
+// Ejercicio 13: para calcular el promedio de notas y determinar si aprueba o reprueba
+
 import java.util.Scanner;
 
 public class PromedioNotas {

@@ -1,3 +1,5 @@
+// Ejercicio 19: para contar la cantidad de veces que aparece una letra en una frase
+
 import java.util.Scanner;
 
 public class ContadorLetras {
