@@ -1,4 +1,6 @@
 // Ejercicio 31: Pirámide de asteriscos
+import java.util.Scanner;   
+
 public class PiramideAsteriscos {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -13,5 +15,6 @@ public class PiramideAsteriscos {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }
